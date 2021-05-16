@@ -1,7 +1,13 @@
-# projeto_stratum_eletronica
-# Projeto Stratum 2020/2021 - Eletrônica
+# workshop_cpp_gpda
+Neste repostório é possível encontrar os exemplos utilizados no workshop de PlatformIO/c++ ministrado pelo Murilo Cabral.
 
-## O Projeto
+## Exercícios
+### 1. Escrever o seguinte código:
+- Um blink led a partir dos fundamentos de programação orientada a objeto ensinadas no workshop.
+- Um led que pulse, ou seja, acenda e apague devagar. Para isso, deve-se criar uma função extra na classe desenvolvida no código anterior.
 
-O Projeto Stratum do GPDA visa o lançamento até uma altitude de 3km de uma sonda movida por balões de hélio.
-...colocar o resto da descriço
+### 2. Em um arquivo de texto ou como anotação do código, você deve:
+- Citar suas dificuldades, tanto na hora de realizar o exercício quanto na hora do workshop.
+- Citar sugestões e dar sua opinião em relação ao workshop.
+
+Os exercícios devem estar em uma pasta chamada "workshop_cpp_nome" e colocada no drive disponibilizado.
