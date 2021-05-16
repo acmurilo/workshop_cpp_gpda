@@ -10,4 +10,4 @@ Neste repostório é possível encontrar os exemplos utilizados no workshop de P
 - Citar suas dificuldades, tanto na hora de realizar o exercício quanto na hora do workshop.
 - Citar sugestões e dar sua opinião em relação ao workshop.
 
-Os exercícios devem estar em uma pasta chamada "workshop_cpp_nome" e colocada no drive disponibilizado.
+Os exercícios devem estar em uma pasta chamada "workshop_cpp_nome", a qual deve ser colocada no drive disponibilizado.
