@@ -1,5 +1,5 @@
 # workshop_cpp_gpda
-Neste repostório é possível encontrar os exemplos utilizados no workshop de PlatformIO/c++ ministrado pelo Murilo Cabral.
+Neste repostório é possível encontrar os exemplos utilizados no workshop de PlatformIO/C++ ministrado pelo Murilo Cabral.
 
 ## Exercícios
 ### 1. Escrever o seguinte código:
