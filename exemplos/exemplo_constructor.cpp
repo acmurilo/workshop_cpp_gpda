@@ -25,6 +25,6 @@ void participantes::apresentar(){
 }
 
 int main(){
-    participantes isadora = participantes("Isadora", 20, 1);
-    isadora.apresentar();
+    participantes alessandro = participantes("Alessandro", 20, 1);
+    alessandro.apresentar();
 }
